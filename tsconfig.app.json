@@ -8,6 +8,8 @@
     "allowArbitraryExtensions": true,
     "skipLibCheck": true,
     "noEmit": true,
+    
+    /* تخطي الأخطاء الصارمة للبناء الفوري */
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noImplicitAny": false,
